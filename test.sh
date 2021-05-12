@@ -1,1 +1,1 @@
-ls -a
+sudo ls -a /etc/
