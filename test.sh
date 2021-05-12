@@ -1,1 +1,1 @@
-ls -apause 1df -h
+ls -a
